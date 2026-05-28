@@ -20,8 +20,7 @@ por año que fueron unificados en un solo modelo.
 ## Herramientas
 Power BI Desktop · DAX · Power Query · ArcGIS Maps
 
-## Principales hallazgos
-- El colectivo concentra el 84,55% de los viajes totales
-- Pico de demanda en franja tarde (35%)
-- La recuperación post-pandemia fue sostenida hasta 2023, 
-  con leve caída en subte y tren hacia 2024
+## Próximas mejoras
+- Script de Python para automatizar la unificación de archivos
+- Consultas SQL sobre el dataset consolidado
+- Incorporación de datos de clima para análisis cruzado
