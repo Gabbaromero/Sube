@@ -25,4 +25,4 @@ Power BI Desktop · DAX · Power Query · ArcGIS Maps · Python (pandas) · SQL
 - Script de Python para automatizar la unificación de archivos fuente
 - Consultas SQL sobre el dataset consolidado
 - Análisis cruzado con datos climáticos (Open-Meteo)
-- 
+  
