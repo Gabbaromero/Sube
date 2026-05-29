@@ -18,9 +18,11 @@ por año que fueron unificados en un solo modelo.
 - Creación de tabla de fechas para análisis temporal
 
 ## Herramientas
-Power BI Desktop · DAX · Power Query · ArcGIS Maps
+Power BI Desktop · DAX · Power Query · ArcGIS Maps · Python (pandas) · SQL
+
 
 ## Próximas mejoras
-- Script de Python para automatizar la unificación de archivos
+- Script de Python para automatizar la unificación de archivos fuente
 - Consultas SQL sobre el dataset consolidado
-- Incorporación de datos de clima para análisis cruzado
+- Análisis cruzado con datos climáticos (Open-Meteo)
+- 
